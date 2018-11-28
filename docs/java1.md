@@ -1,7 +1,7 @@
 ### Java访问控制符
-### 访问控制符
+#### 访问控制符
 public/protected/default/private;
-### 访问原则
+#### 访问原则
 1. 首先是class的访问权限，只有public和缺省这两种
 + 在同一个包中的类可以相互访问到，无需import；
 + 在不同的包中，只能访问到pubulic的类，使用前需要import；
