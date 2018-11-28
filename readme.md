@@ -3,7 +3,7 @@
 1. [git常用指令、markdowm语法](https://github.com/hiyaojie/blog/blob/master/docs/1.md) 
 
 ### Java
-1. 
+1. [Java访问控制符](https://github.com/hiyaojie/blog/blob/master/docs/java1.md)
 2.
 3. 
 
