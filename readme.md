@@ -4,7 +4,7 @@
 
 ### Java
 1. [Java访问控制符](https://github.com/hiyaojie/blog/blob/master/docs/java1.md)
-2.
+2. [一道String相关的笔试题](https://github.com/hiyaojie/blog/blob/master/docs/java2.md)
 3. 
 
 ### 编程基础
