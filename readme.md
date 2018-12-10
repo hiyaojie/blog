@@ -8,7 +8,7 @@
 3. [Java核心技术笔记1](https://github.com/hiyaojie/blog/blob/master/docs/核心技术笔记1.md)
 
 ### 编程基础
-1. [设计模式-桥梁模式](https://github.com/hiyaojie/blog/blob/master/docs/dp桥梁模式)
+1. [设计模式-桥梁模式](https://github.com/hiyaojie/blog/blob/master/docs/dp桥梁模式.md)
 2. 
 3. 
 
