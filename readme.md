@@ -9,7 +9,7 @@
 
 ### 编程基础
 1. [设计模式-桥梁模式](https://github.com/hiyaojie/blog/blob/master/docs/dp桥梁模式.md)
-2. 
+2. [设计模式-工厂模式](https://github.com/hiyaojie/blog/blob/master/docs/dp工厂模式.md)
 3. 
 
 ### LeetCode
