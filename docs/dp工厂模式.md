@@ -21,5 +21,11 @@
    3. 不同的面馆分别实现抽象面馆；
    4. 具体面和小吃分别实现面、小吃接口；
    5. 用户点餐new一个面馆的工厂实例，点相应的东西；
+   
+   另外的理解：
+   1. 抽象工厂指的是工厂的工厂，由假设有一个组织管理者所有的工厂，由它生成一个工厂；FactoryProducer;
+   2. FactoryProducer有一个静态方法用于生成工厂的实例；Factory;
+   3. Factory实现里不同的抽象类和接口；
+   4. 总之，工厂生成的是具体对象，抽象工厂生成的是工厂；（来自知乎搜索，与菜鸟教程里的例子是一致的）
 
 [看笔记部分](http://www.runoob.com/design-pattern/abstract-factory-pattern.html)
