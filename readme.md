@@ -19,4 +19,4 @@
 
 ### 笔记
 1. [笔记1](https://github.com/hiyaojie/blog/blob/master/docs/notes/note1.md)
-2. 
+2. [mybatis防sql注入](https://github.com/hiyaojie/blog/blob/master/docs/notes/mybatis%E9%98%B2sql%E6%B3%A8%E5%85%A5.md)
