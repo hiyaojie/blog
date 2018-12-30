@@ -22,3 +22,4 @@
 1. [笔记1](https://github.com/hiyaojie/blog/blob/master/docs/notes/note1.md)
 2. [mybatis防sql注入](https://github.com/hiyaojie/blog/blob/master/docs/notes/mybatis%E9%98%B2sql%E6%B3%A8%E5%85%A5.md)
 3. [mybatis配置二级缓存](https://blog.csdn.net/Dongguabai/article/details/81107069)
+4. [mybatis多数据源+通用mapper+分页](https://blog.csdn.net/acquaintanceship/article/details/75350653)
